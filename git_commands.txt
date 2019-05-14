@@ -11,4 +11,5 @@ Git Remote Commmands
 # git push origin master
 # git pull origin master
 
+# git checkout -b (new branch name)
 # git merge (branch to merge into this one)
